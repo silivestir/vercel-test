@@ -1,0 +1,19 @@
+{
+  "name": "vercel-test",
+  "version": "1.0.0",
+  "description": "A simple Express application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "javascript"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
